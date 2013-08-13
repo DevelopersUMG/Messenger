@@ -33,6 +33,7 @@ Partial Class Form2
         Me.TextBox4 = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
+        Me.Bt_guardarcon = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -129,11 +130,21 @@ Partial Class Form2
         Me.Label2.TabIndex = 10
         Me.Label2.Text = "IP:"
         '
+        'Bt_guardarcon
+        '
+        Me.Bt_guardarcon.Location = New System.Drawing.Point(587, 257)
+        Me.Bt_guardarcon.Name = "Bt_guardarcon"
+        Me.Bt_guardarcon.Size = New System.Drawing.Size(105, 34)
+        Me.Bt_guardarcon.TabIndex = 11
+        Me.Bt_guardarcon.Text = "Guardar Conversacion"
+        Me.Bt_guardarcon.UseVisualStyleBackColor = True
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(705, 340)
+        Me.Controls.Add(Me.Bt_guardarcon)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.TextBox4)
@@ -162,4 +173,5 @@ Partial Class Form2
     Friend WithEvents TextBox4 As System.Windows.Forms.TextBox
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents Bt_guardarcon As System.Windows.Forms.Button
 End Class
