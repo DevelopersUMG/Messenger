@@ -23,3 +23,15 @@ C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\G
 C:\Users\gallo\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.exe
 C:\Users\gallo\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.xml
 C:\Users\gallo\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.exe
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.pdb
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.xml
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
