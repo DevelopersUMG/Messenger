@@ -50,3 +50,6 @@ C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Generate
 C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form3.resources
 C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form3.resources
 C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.pdb

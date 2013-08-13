@@ -8,4 +8,8 @@
         Form1.Show()
         Me.Hide()
     End Sub
+
+    Private Sub ToolStripButton1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+
+    End Sub
 End Class
