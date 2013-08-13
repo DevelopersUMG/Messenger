@@ -1,0 +1,22 @@
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\bin\Debug\Login.exe
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\bin\Debug\Login.pdb
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\bin\Debug\Login.xml
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.exe
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.xml
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.pdb
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\bin\Debug\Login.exe
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\bin\Debug\Login.pdb
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\bin\Debug\Login.xml
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
