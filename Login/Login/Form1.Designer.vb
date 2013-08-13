@@ -103,6 +103,7 @@ Partial Class Form1
         'PictureBox2
         '
         Me.PictureBox2.BackColor = System.Drawing.Color.Transparent
+        Me.PictureBox2.ErrorImage = CType(resources.GetObject("PictureBox2.ErrorImage"), System.Drawing.Image)
         Me.PictureBox2.Image = CType(resources.GetObject("PictureBox2.Image"), System.Drawing.Image)
         Me.PictureBox2.Location = New System.Drawing.Point(483, 12)
         Me.PictureBox2.Name = "PictureBox2"
