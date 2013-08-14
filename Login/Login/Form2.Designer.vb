@@ -41,17 +41,25 @@ Partial Class Form2
         Me.ToolStripSeparator3 = New System.Windows.Forms.ToolStripSeparator()
         Me.ToolStripDropDownButton1 = New System.Windows.Forms.ToolStripDropDownButton()
         Me.TextoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.FondoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ColorToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TipoLetraToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.NegritaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.CentrarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.AMayusculasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.AMinusculasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.FondoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ColorToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ImagenToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.SimbolosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.FormasDeCaraToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripDropDownButton2 = New System.Windows.Forms.ToolStripDropDownButton()
         Me.NuevoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.EliminarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripDropDownButton3 = New System.Windows.Forms.ToolStripDropDownButton()
         Me.VerToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ElminarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripButton1 = New System.Windows.Forms.ToolStripSplitButton()
+        Me.AyudaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -160,7 +168,7 @@ Partial Class Form2
         '
         'ToolStrip1
         '
-        Me.ToolStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripDropDownButton1, Me.ToolStripSeparator1, Me.ToolStripDropDownButton2, Me.ToolStripSeparator2, Me.ToolStripDropDownButton3, Me.ToolStripSeparator3})
+        Me.ToolStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripDropDownButton1, Me.ToolStripSeparator1, Me.ToolStripDropDownButton2, Me.ToolStripSeparator2, Me.ToolStripDropDownButton3, Me.ToolStripSeparator3, Me.ToolStripButton1})
         Me.ToolStrip1.Location = New System.Drawing.Point(0, 0)
         Me.ToolStrip1.Name = "ToolStrip1"
         Me.ToolStrip1.Size = New System.Drawing.Size(705, 25)
@@ -185,7 +193,7 @@ Partial Class Form2
         'ToolStripDropDownButton1
         '
         Me.ToolStripDropDownButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
-        Me.ToolStripDropDownButton1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TextoToolStripMenuItem, Me.FondoToolStripMenuItem})
+        Me.ToolStripDropDownButton1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TextoToolStripMenuItem, Me.FondoToolStripMenuItem, Me.SimbolosToolStripMenuItem, Me.FormasDeCaraToolStripMenuItem})
         Me.ToolStripDropDownButton1.Image = CType(resources.GetObject("ToolStripDropDownButton1.Image"), System.Drawing.Image)
         Me.ToolStripDropDownButton1.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripDropDownButton1.Name = "ToolStripDropDownButton1"
@@ -194,19 +202,11 @@ Partial Class Form2
         '
         'TextoToolStripMenuItem
         '
-        Me.TextoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ColorToolStripMenuItem, Me.TipoLetraToolStripMenuItem, Me.NegritaToolStripMenuItem})
+        Me.TextoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ColorToolStripMenuItem, Me.TipoLetraToolStripMenuItem, Me.NegritaToolStripMenuItem, Me.CentrarToolStripMenuItem, Me.AMayusculasToolStripMenuItem, Me.AMinusculasToolStripMenuItem})
         Me.TextoToolStripMenuItem.Image = CType(resources.GetObject("TextoToolStripMenuItem.Image"), System.Drawing.Image)
         Me.TextoToolStripMenuItem.Name = "TextoToolStripMenuItem"
-        Me.TextoToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.TextoToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
         Me.TextoToolStripMenuItem.Text = "Texto"
-        '
-        'FondoToolStripMenuItem
-        '
-        Me.FondoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ColorToolStripMenuItem1})
-        Me.FondoToolStripMenuItem.Image = CType(resources.GetObject("FondoToolStripMenuItem.Image"), System.Drawing.Image)
-        Me.FondoToolStripMenuItem.Name = "FondoToolStripMenuItem"
-        Me.FondoToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
-        Me.FondoToolStripMenuItem.Text = "Fondo"
         '
         'ColorToolStripMenuItem
         '
@@ -229,12 +229,62 @@ Partial Class Form2
         Me.NegritaToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.NegritaToolStripMenuItem.Text = "Negrita"
         '
+        'CentrarToolStripMenuItem
+        '
+        Me.CentrarToolStripMenuItem.Image = Global.Login.My.Resources.Resources.skype_dnd
+        Me.CentrarToolStripMenuItem.Name = "CentrarToolStripMenuItem"
+        Me.CentrarToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.CentrarToolStripMenuItem.Text = "Centrar"
+        '
+        'AMayusculasToolStripMenuItem
+        '
+        Me.AMayusculasToolStripMenuItem.Image = Global.Login.My.Resources.Resources.application_text
+        Me.AMayusculasToolStripMenuItem.Name = "AMayusculasToolStripMenuItem"
+        Me.AMayusculasToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.AMayusculasToolStripMenuItem.Text = "A mayusculas"
+        '
+        'AMinusculasToolStripMenuItem
+        '
+        Me.AMinusculasToolStripMenuItem.Image = Global.Login.My.Resources.Resources.gnome_mime_application_x_gzip
+        Me.AMinusculasToolStripMenuItem.Name = "AMinusculasToolStripMenuItem"
+        Me.AMinusculasToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.AMinusculasToolStripMenuItem.Text = "A minusculas"
+        '
+        'FondoToolStripMenuItem
+        '
+        Me.FondoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ColorToolStripMenuItem1, Me.ImagenToolStripMenuItem})
+        Me.FondoToolStripMenuItem.Image = CType(resources.GetObject("FondoToolStripMenuItem.Image"), System.Drawing.Image)
+        Me.FondoToolStripMenuItem.Name = "FondoToolStripMenuItem"
+        Me.FondoToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
+        Me.FondoToolStripMenuItem.Text = "Fondo"
+        '
         'ColorToolStripMenuItem1
         '
         Me.ColorToolStripMenuItem1.Image = CType(resources.GetObject("ColorToolStripMenuItem1.Image"), System.Drawing.Image)
         Me.ColorToolStripMenuItem1.Name = "ColorToolStripMenuItem1"
-        Me.ColorToolStripMenuItem1.Size = New System.Drawing.Size(152, 22)
+        Me.ColorToolStripMenuItem1.Size = New System.Drawing.Size(114, 22)
         Me.ColorToolStripMenuItem1.Text = "Color"
+        '
+        'ImagenToolStripMenuItem
+        '
+        Me.ImagenToolStripMenuItem.Image = Global.Login.My.Resources.Resources.Image_jpeg
+        Me.ImagenToolStripMenuItem.Name = "ImagenToolStripMenuItem"
+        Me.ImagenToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
+        Me.ImagenToolStripMenuItem.Text = "Imagen"
+        '
+        'SimbolosToolStripMenuItem
+        '
+        Me.SimbolosToolStripMenuItem.Image = Global.Login.My.Resources.Resources.application_vnd_oasis_opendocument_formula
+        Me.SimbolosToolStripMenuItem.Name = "SimbolosToolStripMenuItem"
+        Me.SimbolosToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
+        Me.SimbolosToolStripMenuItem.Text = "Simbolos"
+        '
+        'FormasDeCaraToolStripMenuItem
+        '
+        Me.FormasDeCaraToolStripMenuItem.Image = Global.Login.My.Resources.Resources.Comix
+        Me.FormasDeCaraToolStripMenuItem.Name = "FormasDeCaraToolStripMenuItem"
+        Me.FormasDeCaraToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
+        Me.FormasDeCaraToolStripMenuItem.Text = "Formas de cara"
         '
         'ToolStripDropDownButton2
         '
@@ -284,6 +334,23 @@ Partial Class Form2
         Me.ElminarToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.ElminarToolStripMenuItem.Text = "Elminar"
         '
+        'ToolStripButton1
+        '
+        Me.ToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
+        Me.ToolStripButton1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AyudaToolStripMenuItem})
+        Me.ToolStripButton1.Image = CType(resources.GetObject("ToolStripButton1.Image"), System.Drawing.Image)
+        Me.ToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.ToolStripButton1.Name = "ToolStripButton1"
+        Me.ToolStripButton1.Size = New System.Drawing.Size(32, 22)
+        Me.ToolStripButton1.Text = "ToolStripButton1"
+        '
+        'AyudaToolStripMenuItem
+        '
+        Me.AyudaToolStripMenuItem.Image = Global.Login.My.Resources.Resources.Gnome_Status
+        Me.AyudaToolStripMenuItem.Name = "AyudaToolStripMenuItem"
+        Me.AyudaToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.AyudaToolStripMenuItem.Text = "Ayuda"
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -311,7 +378,6 @@ Partial Class Form2
 
     End Sub
     Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents Button3 As System.Windows.Forms.Button
@@ -339,4 +405,13 @@ Partial Class Form2
     Friend WithEvents ToolStripDropDownButton3 As System.Windows.Forms.ToolStripDropDownButton
     Friend WithEvents VerToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ElminarToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents CentrarToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents AMayusculasToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents AMinusculasToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ImagenToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
+    Friend WithEvents SimbolosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents FormasDeCaraToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ToolStripButton1 As System.Windows.Forms.ToolStripSplitButton
+    Friend WithEvents AyudaToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 End Class

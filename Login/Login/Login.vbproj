@@ -144,6 +144,30 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skype_dnd.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-x-theme.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-text.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome-mime-application-x-gzip.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image-jpeg.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-vnd.oasis.opendocument.formula.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comix.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Status.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
