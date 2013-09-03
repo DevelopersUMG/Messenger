@@ -67,3 +67,14 @@ C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login
 C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Resources.resources
 C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.exe
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.pdb
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.xml
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form3.resources
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog

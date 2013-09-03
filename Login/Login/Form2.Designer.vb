@@ -36,9 +36,6 @@ Partial Class Form2
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Bt_guardarcon = New System.Windows.Forms.Button()
         Me.ToolStrip1 = New System.Windows.Forms.ToolStrip()
-        Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
-        Me.ToolStripSeparator2 = New System.Windows.Forms.ToolStripSeparator()
-        Me.ToolStripSeparator3 = New System.Windows.Forms.ToolStripSeparator()
         Me.ToolStripDropDownButton1 = New System.Windows.Forms.ToolStripDropDownButton()
         Me.TextoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ColorToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -49,17 +46,16 @@ Partial Class Form2
         Me.AMinusculasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.FondoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ColorToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
-        Me.ImagenToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.SimbolosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.FormasDeCaraToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
         Me.ToolStripDropDownButton2 = New System.Windows.Forms.ToolStripDropDownButton()
         Me.NuevoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.EliminarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripSeparator2 = New System.Windows.Forms.ToolStripSeparator()
         Me.ToolStripDropDownButton3 = New System.Windows.Forms.ToolStripDropDownButton()
         Me.VerToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ElminarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.ToolStripButton1 = New System.Windows.Forms.ToolStripSplitButton()
-        Me.AyudaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripSeparator3 = New System.Windows.Forms.ToolStripSeparator()
+        Me.ToolStripButton1 = New System.Windows.Forms.ToolStripButton()
         Me.ToolStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -175,25 +171,10 @@ Partial Class Form2
         Me.ToolStrip1.TabIndex = 12
         Me.ToolStrip1.Text = "ToolStrip1"
         '
-        'ToolStripSeparator1
-        '
-        Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
-        Me.ToolStripSeparator1.Size = New System.Drawing.Size(6, 25)
-        '
-        'ToolStripSeparator2
-        '
-        Me.ToolStripSeparator2.Name = "ToolStripSeparator2"
-        Me.ToolStripSeparator2.Size = New System.Drawing.Size(6, 25)
-        '
-        'ToolStripSeparator3
-        '
-        Me.ToolStripSeparator3.Name = "ToolStripSeparator3"
-        Me.ToolStripSeparator3.Size = New System.Drawing.Size(6, 25)
-        '
         'ToolStripDropDownButton1
         '
         Me.ToolStripDropDownButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
-        Me.ToolStripDropDownButton1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TextoToolStripMenuItem, Me.FondoToolStripMenuItem, Me.SimbolosToolStripMenuItem, Me.FormasDeCaraToolStripMenuItem})
+        Me.ToolStripDropDownButton1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TextoToolStripMenuItem, Me.FondoToolStripMenuItem})
         Me.ToolStripDropDownButton1.Image = CType(resources.GetObject("ToolStripDropDownButton1.Image"), System.Drawing.Image)
         Me.ToolStripDropDownButton1.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripDropDownButton1.Name = "ToolStripDropDownButton1"
@@ -205,7 +186,7 @@ Partial Class Form2
         Me.TextoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ColorToolStripMenuItem, Me.TipoLetraToolStripMenuItem, Me.NegritaToolStripMenuItem, Me.CentrarToolStripMenuItem, Me.AMayusculasToolStripMenuItem, Me.AMinusculasToolStripMenuItem})
         Me.TextoToolStripMenuItem.Image = CType(resources.GetObject("TextoToolStripMenuItem.Image"), System.Drawing.Image)
         Me.TextoToolStripMenuItem.Name = "TextoToolStripMenuItem"
-        Me.TextoToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
+        Me.TextoToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.TextoToolStripMenuItem.Text = "Texto"
         '
         'ColorToolStripMenuItem
@@ -252,39 +233,23 @@ Partial Class Form2
         '
         'FondoToolStripMenuItem
         '
-        Me.FondoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ColorToolStripMenuItem1, Me.ImagenToolStripMenuItem})
+        Me.FondoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ColorToolStripMenuItem1})
         Me.FondoToolStripMenuItem.Image = CType(resources.GetObject("FondoToolStripMenuItem.Image"), System.Drawing.Image)
         Me.FondoToolStripMenuItem.Name = "FondoToolStripMenuItem"
-        Me.FondoToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
+        Me.FondoToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.FondoToolStripMenuItem.Text = "Fondo"
         '
         'ColorToolStripMenuItem1
         '
         Me.ColorToolStripMenuItem1.Image = CType(resources.GetObject("ColorToolStripMenuItem1.Image"), System.Drawing.Image)
         Me.ColorToolStripMenuItem1.Name = "ColorToolStripMenuItem1"
-        Me.ColorToolStripMenuItem1.Size = New System.Drawing.Size(114, 22)
+        Me.ColorToolStripMenuItem1.Size = New System.Drawing.Size(152, 22)
         Me.ColorToolStripMenuItem1.Text = "Color"
         '
-        'ImagenToolStripMenuItem
+        'ToolStripSeparator1
         '
-        Me.ImagenToolStripMenuItem.Image = Global.Login.My.Resources.Resources.Image_jpeg
-        Me.ImagenToolStripMenuItem.Name = "ImagenToolStripMenuItem"
-        Me.ImagenToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
-        Me.ImagenToolStripMenuItem.Text = "Imagen"
-        '
-        'SimbolosToolStripMenuItem
-        '
-        Me.SimbolosToolStripMenuItem.Image = Global.Login.My.Resources.Resources.application_vnd_oasis_opendocument_formula
-        Me.SimbolosToolStripMenuItem.Name = "SimbolosToolStripMenuItem"
-        Me.SimbolosToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
-        Me.SimbolosToolStripMenuItem.Text = "Simbolos"
-        '
-        'FormasDeCaraToolStripMenuItem
-        '
-        Me.FormasDeCaraToolStripMenuItem.Image = Global.Login.My.Resources.Resources.Comix
-        Me.FormasDeCaraToolStripMenuItem.Name = "FormasDeCaraToolStripMenuItem"
-        Me.FormasDeCaraToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
-        Me.FormasDeCaraToolStripMenuItem.Text = "Formas de cara"
+        Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
+        Me.ToolStripSeparator1.Size = New System.Drawing.Size(6, 25)
         '
         'ToolStripDropDownButton2
         '
@@ -310,6 +275,11 @@ Partial Class Form2
         Me.EliminarToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.EliminarToolStripMenuItem.Text = "Eliminar"
         '
+        'ToolStripSeparator2
+        '
+        Me.ToolStripSeparator2.Name = "ToolStripSeparator2"
+        Me.ToolStripSeparator2.Size = New System.Drawing.Size(6, 25)
+        '
         'ToolStripDropDownButton3
         '
         Me.ToolStripDropDownButton3.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
@@ -324,32 +294,29 @@ Partial Class Form2
         '
         Me.VerToolStripMenuItem.Image = CType(resources.GetObject("VerToolStripMenuItem.Image"), System.Drawing.Image)
         Me.VerToolStripMenuItem.Name = "VerToolStripMenuItem"
-        Me.VerToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.VerToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
         Me.VerToolStripMenuItem.Text = "Ver"
         '
         'ElminarToolStripMenuItem
         '
         Me.ElminarToolStripMenuItem.Image = CType(resources.GetObject("ElminarToolStripMenuItem.Image"), System.Drawing.Image)
         Me.ElminarToolStripMenuItem.Name = "ElminarToolStripMenuItem"
-        Me.ElminarToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.ElminarToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
         Me.ElminarToolStripMenuItem.Text = "Elminar"
+        '
+        'ToolStripSeparator3
+        '
+        Me.ToolStripSeparator3.Name = "ToolStripSeparator3"
+        Me.ToolStripSeparator3.Size = New System.Drawing.Size(6, 25)
         '
         'ToolStripButton1
         '
         Me.ToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
-        Me.ToolStripButton1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AyudaToolStripMenuItem})
         Me.ToolStripButton1.Image = CType(resources.GetObject("ToolStripButton1.Image"), System.Drawing.Image)
         Me.ToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripButton1.Name = "ToolStripButton1"
-        Me.ToolStripButton1.Size = New System.Drawing.Size(32, 22)
+        Me.ToolStripButton1.Size = New System.Drawing.Size(23, 22)
         Me.ToolStripButton1.Text = "ToolStripButton1"
-        '
-        'AyudaToolStripMenuItem
-        '
-        Me.AyudaToolStripMenuItem.Image = Global.Login.My.Resources.Resources.Gnome_Status
-        Me.AyudaToolStripMenuItem.Name = "AyudaToolStripMenuItem"
-        Me.AyudaToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
-        Me.AyudaToolStripMenuItem.Text = "Ayuda"
         '
         'Form2
         '
@@ -408,10 +375,6 @@ Partial Class Form2
     Friend WithEvents CentrarToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents AMayusculasToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents AMinusculasToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents ImagenToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
-    Friend WithEvents SimbolosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents FormasDeCaraToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents ToolStripButton1 As System.Windows.Forms.ToolStripSplitButton
-    Friend WithEvents AyudaToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ToolStripButton1 As System.Windows.Forms.ToolStripButton
 End Class
