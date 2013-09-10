@@ -1,0 +1,366 @@
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\bin\Debug\Login.exe
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\bin\Debug\Login.pdb
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\bin\Debug\Login.xml
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.exe
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.xml
+C:\Users\gallo\AppData\Local\Temporary Projects\Login\obj\x86\Debug\Login.pdb
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\bin\Debug\Login.exe
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\bin\Debug\Login.pdb
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\bin\Debug\Login.xml
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gallo\documents\visual studio 2010\Projects\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gallo\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\gallo\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\gallo\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.exe
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.pdb
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.xml
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.exe
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.pdb
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.xml
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\090110352\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form3.resources
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form3.resources
+C:\Users\alumno\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\Samaria\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.exe
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.pdb
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.xml
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form3.resources
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David Garcia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.exe
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.pdb
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\Login.xml
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Form3.resources
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\ConexionSQL.dll
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\ConexionSQL.pdb
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\ConexionSQL.xml
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\ODBCMySqlConnect.dll
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\ODBCMySqlConnect.pdb
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\obj\x86\Debug\Login.frm_recuperar.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.frm_recuperar.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\ConexionSQL.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\ODBCMySqlConnect.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\ConexionSQL.pdb
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\ConexionSQL.xml
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\ODBCMySqlConnect.pdb
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.vbproj.ResolveComReference.cache
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia2.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia22.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia3.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia33.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia4.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia44.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia5.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia55.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia6.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia66.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia7.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia77.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia8.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.envia88.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha2.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha3.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha4.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha10.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha11.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha5.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha6.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha7.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha8.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.escucha9.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.vbproj.ResolveComReference.cache
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\ConexionSQL.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\ODBCMySqlConnect.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\ConexionSQL.pdb
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\ConexionSQL.xml
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\ODBCMySqlConnect.pdb
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia2.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia22.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia3.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia33.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia4.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia44.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia5.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia55.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia6.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia66.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia7.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia77.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia8.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.envia88.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha10.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha11.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha2.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha3.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha4.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha5.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha6.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha7.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha8.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.escucha9.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.frm_recuperar.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mario Chanquin\Desktop\Miercoles\Primera Fase (Noelia y Rony)\Messenger\10.2\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.vbproj.ResolveComReference.cache
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\bin\Debug\Login.exe
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\bin\Debug\Login.pdb
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\bin\Debug\Login.xml
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\bin\Debug\ODBCMySqlConnect.dll
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\bin\Debug\ConexionSQL.pdb
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\bin\Debug\ConexionSQL.xml
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\bin\Debug\ODBCMySqlConnect.pdb
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia2.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia22.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia3.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia33.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia4.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia44.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia5.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia55.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia6.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia66.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia7.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia77.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia8.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.envia88.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha10.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha11.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha2.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha3.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha4.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha5.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha6.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha7.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha8.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.escucha9.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.frm_recuperar.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\Rony Alejandro\Desktop\10.2\Login\Login\obj\x86\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.vbproj.ResolveComReference.cache
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\bin\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\bin\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\bin\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\bin\Debug\ODBCMySqlConnect.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\bin\Debug\ConexionSQL.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\bin\Debug\ConexionSQL.xml
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\bin\Debug\ODBCMySqlConnect.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia2.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia22.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia3.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia33.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia4.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia44.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia5.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia55.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia6.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia66.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia7.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia77.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia8.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.envia88.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha10.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha11.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha2.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha3.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha4.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha5.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha6.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha7.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha8.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.escucha9.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.frm_recuperar.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\10.2\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.vbproj.ResolveComReference.cache
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia2.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia22.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia3.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia33.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia4.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia44.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia5.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia55.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia6.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia66.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia7.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia77.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia8.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.envia88.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.escucha2.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.escucha3.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.escucha4.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.escucha5.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.escucha6.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.escucha7.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.escucha8.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.frm_recuperar.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\bin\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\bin\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\bin\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\bin\Debug\ODBCMySqlConnect.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\bin\Debug\ConexionSQL.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\bin\Debug\ConexionSQL.xml
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\bin\Debug\ODBCMySqlConnect.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\10.2\Login\Login\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.vbproj.ResolveComReference.cache
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\bin\Debug\Login.exe
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\bin\Debug\Login.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\bin\Debug\Login.xml
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\bin\Debug\ODBCMySqlConnect.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\bin\Debug\ConexionSQL.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\bin\Debug\ConexionSQL.xml
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\bin\Debug\ODBCMySqlConnect.pdb
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia2.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia22.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia3.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia33.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia4.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia44.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia5.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia55.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia6.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia66.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia7.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia77.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia8.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.envia88.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.escucha2.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.escucha3.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.escucha4.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.escucha5.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.escucha6.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.escucha7.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.escucha8.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.frm_nuevo.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.frm_recuperar.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\Login.Resources.resources
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mario Chanquin\Desktop\ultima modificacion rony\Listo Viernes\192.168.10.2\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog

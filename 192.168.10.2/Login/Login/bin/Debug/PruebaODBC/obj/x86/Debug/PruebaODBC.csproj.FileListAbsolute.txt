@@ -1,0 +1,20 @@
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\bin\Debug\PruebaODBC.exe
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\bin\Debug\PruebaODBC.pdb
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\obj\x86\Debug\PruebaODBC.Properties.Resources.resources
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\obj\x86\Debug\PruebaODBC.csproj.GenerateResource.Cache
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\obj\x86\Debug\PruebaODBC.exe
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\obj\x86\Debug\PruebaODBC.pdb
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\bin\Debug\ODBCMySqlConnect.dll
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\bin\Debug\ODBCMySqlConnect.pdb
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\obj\x86\Debug\PruebaODBC.Form1.resources
+c:\users\guicho\documents\visual studio 2010\Projects\ODBCMySqlConnect\PruebaODBC\obj\x86\Debug\PruebaODBC.csprojResolveAssemblyReference.cache
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\obj\x86\Debug\PruebaODBC.exe
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\obj\x86\Debug\PruebaODBC.pdb
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\bin\Debug\PruebaODBC.exe
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\bin\Debug\PruebaODBC.pdb
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\bin\Debug\ODBCMySqlConnect.pdb
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\obj\x86\Debug\PruebaODBC.Form1.resources
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\obj\x86\Debug\PruebaODBC.Properties.Resources.resources
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Noelia\Documents\GitHub\Messenger\Login\Login\bin\Debug\PruebaODBC\obj\x86\Debug\GenerateResource.write.1.tlog
